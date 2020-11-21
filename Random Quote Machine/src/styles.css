@@ -1,0 +1,44 @@
+#quote-box {
+  margin-top: 3%;
+  font-family: "Times New Roman", Times, serif;
+  display: flex;
+  justify-content: center;
+  color: white;
+}
+
+header {
+  margin-top: 3%;
+  font-family: cursive;
+  font-size: 35px;
+  color: white;
+}
+
+.tweet {
+  float: right;
+  margin-right: 1%;
+}
+
+.container-fluid {
+  width: 50%;
+  border: 2px solid transparent;
+  padding-bottom: 1%;
+  margin-top: 15%;
+  background-color: #8d99ae;
+}
+
+p {
+  font-size: 20px;
+  font-weight: bold;
+}
+
+#author {
+  font-size: 15px;
+}
+
+#new-quote {
+  border-color: transparent;
+}
+
+body {
+  background-color: #03071e;
+}
